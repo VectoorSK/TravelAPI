@@ -26,7 +26,7 @@
   {
     "id": 4,
     "country": "Grece",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1280px-Flag_of_Greece.svg.png",
     "date": 2011,
     "desc": "blabla",
     "steps": "athenes"
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "country": "Australie",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/1920px-Flag_of_Australia.svg.png",
     "date": 2012,
     "desc": "blabla",
     "steps": "melbourne"
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "country": "Inde",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1280px-Flag_of_India.svg.png",
     "date": 2013,
     "desc": "blabla",
     "steps": "dehli, jodhpur, jaipur, jaisalmer, udaipur, agra"
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "country": "Vietnam",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1280px-Flag_of_Vietnam.svg.png",
     "date": 2014,
     "desc": "blabla",
     "steps": "hanoi, sapa, tam coq, hoian, baie d'halong"
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "country": "usa",
-    "flag": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1920px-Flag_of_the_United_States.svg.png",
     "date": 2015,
     "desc": "blabla",
     "steps": "san francisco, los angeles, san diego, las vegas, grand canyon, yosemite"
@@ -66,7 +66,7 @@
   {
     "id": 9,
     "country": "Tanzanie",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/1280px-Flag_of_Tanzania.svg.png",
     "date": 2016,
     "desc": "blabla",
     "steps": "dar es salam, udzungwa, mikumi, zanzibar"
@@ -74,7 +74,7 @@
   {
     "id": 10,
     "country": "Nepal",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/800px-Flag_of_Nepal.svg.png",
     "date": 2016,
     "desc": "blabla",
     "steps": "kathmandu, pokara"
@@ -82,7 +82,7 @@
   {
     "id": 11,
     "country": "Equateur",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1280px-Flag_of_Ecuador.svg.png",
     "date": 2017,
     "desc": "blabla",
     "steps": "puerto lopez, quito, otavalo, cuenca, guayaquil"
@@ -90,7 +90,7 @@
   {
     "id": 12,
     "country": "Chine",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png",
     "date": 2018,
     "desc": "blabla",
     "steps": "hong kong, kunming, li jiang, shangri la"
