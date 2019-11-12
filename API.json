@@ -1,13 +1,15 @@
 {
   "id": 1,
   "country": "angleterre",
+  "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1920px-Flag_of_England.svg.png",
   "date": 2009,
   "desc": "blabla",
   "steps": ["londres"]
 },
 {
   "id": 2,
-  "country": "islande",
+  "country": "Islande",
+  "flag": "",
   "date": 2009,
   "desc": "blabla",
   "steps": ["reykjavik"]
@@ -15,34 +17,39 @@
 {
   "id": 3,
   "country": "Italie",
+  "flag": "",
   "date": 2010,
   "desc": "blabla",
   "steps": ["rimini","venise","florence","st marin"]
 },
 {
   "id": 4,
-  "country": "grece",
+  "country": "Grece",
+  "flag": "",
   "date": 2011,
   "desc": "blabla",
   "steps": ["athenes"]
 },
 {
   "id": 5,
-  "country": "australie",
+  "country": "Australie",
+  "flag": "",
   "date": 2012,
   "desc": "blabla",
   "steps": ["melbourne"]
 },
 {
   "id": 6,
-  "country": "inde",
+  "country": "Inde",
+  "flag": "",
   "date": 2013,
   "desc": "blabla",
   "steps": ["dehli","jodhpur","jaipur","jaisalmer","udaipur","agra"]
 },
 {
   "id": 7,
-  "country": "vietnam",
+  "country": "Vietnam",
+  "flag": "",
   "date": 2014,
   "desc": "blabla",
   "steps": ["hanoi","sapa","tam coq","hoian","baie d'halong"]
@@ -56,28 +63,32 @@
 },
 {
   "id": 9,
-  "country": "tanzanie",
+  "country": "Tanzanie",
+  "flag": "",
   "date": 2016,
   "desc": "blabla",
   "steps": ["dar es salam","udzungwa","mikumi","zanzibar"]
 },
 {
   "id": 10,
-  "country": "nepal",
+  "country": "Nepal",
+  "flag": "",
   "date": 2016,
   "desc": "blabla",
   "steps": ["kathmandu","pokara"]
 },
 {
   "id": 11,
-  "country": "equateur",
+  "country": "Equateur",
+  "flag": "",
   "date": 2017,
   "desc": "blabla",
   "steps": ["puerto lopez","quito","otavalo","cuenca","guayaquil"]
 },
 {
   "id": 12,
-  "country": "chine",
+  "country": "Chine",
+  "flag": "",
   "date": 2018,
   "desc": "blabla",
   "steps": ["hong kong","kunming","li jiang","shangri la"]
