@@ -7,7 +7,7 @@
     "date_to": "2009",
     "desc": "Summer camp in England.\nOne week working in a zoo.\nOne week in amusement park.",
     "steps": "Londres",
-    "steps_obj": [
+    "steps_array": [
       {
         "city": "Londres",
         "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg"
@@ -22,7 +22,7 @@
     "date_to": "2009",
     "desc": "Winter camp in Iceland.\nVisiting Reykjavik...",
     "steps": "Reykjavik",
-    "steps_obj": [
+    "steps_array": [
       {
         "city": "Reykjavik",
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
@@ -37,7 +37,7 @@
     "date_to": "2010",
     "desc": "Summer camp in Italie.\nStaying in Rimini.\nVisiting Venice, Florence and San Marino.",
     "steps": "Rimini&&Venise&&Florence&&San Marino",
-    "steps_obj": [
+    "steps_array": [
       {
         "city": "Rimini",
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
@@ -64,7 +64,7 @@
     "date_to": "2011",
     "desc": "Summer camp in Grece.\nVisiting Athenes and Islands.",
     "steps": "Athenes",
-    "steps_obj": [
+    "steps_array": [
       {
         "city": "Athenes",
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
@@ -79,7 +79,7 @@
     "date_to": "Aout 2012",
     "desc": "Summer camp in Australian family.\nStaying in Melbourne in local highschool.",
     "steps": "Melbourne",
-    "steps_obj": [
+    "steps_array": [
       {
         "city": "Melbourne",
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
@@ -94,7 +94,7 @@
     "date_to": "2013",
     "desc": "Summer camp in India (Rajasthan).\nVisiting Dehli, Jodhpur, Jaïpur, Jaisalmer, Udaïpu, Agra.",
     "steps": "Dehli&&Jodhpur&&Jaïpur&&Jaisalmer&&Udaïpur&&Agra",
-    "steps_obj": [
+    "steps_array": [
       {
         "city": "Dehli",
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
@@ -129,7 +129,7 @@
     "date_to": "2014",
     "desc": "Summer camp in Vietnam.\nVisiting Hanoï, Sapa, Tam Coq island, Jaisalmer, Hoï An and Halong bay.",
     "steps": "Hanoï&&Sa Pa&&Tam Coq&&Hoï An&&Baie d'Halong",
-    "steps_obj": [
+    "steps_array": [
       {
         "city": "Hanoï",
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
@@ -160,7 +160,7 @@
     "date_to": "2015",
     "desc": "Summer camp in USA (California, Nevada, Arizona).\n Visiting SF, LA, SD, LV, Yosemite and Grand Canyon.",
     "steps": "San Francisco&&Los Angeles&&San Diego&&Las Vegas&&Grand Canyon&&Yosemite",
-    "steps_obj": [
+    "steps_array": [
       {
         "city": "San Francisco",
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
@@ -195,7 +195,7 @@
     "date_to": "2016",
     "desc": "Summer camp in Tanzania.\nVisiting Dar es Salam, Udzungwa, Mikumi and Zanzibar island.",
     "steps": "Dar es Salam&&Udzungwa&&Mikumi&&Zanzibar",
-    "steps_obj": [
+    "steps_array": [
       {
         "city": "Dar es Salam",
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
@@ -222,7 +222,7 @@
     "date_to": "April 2016",
     "desc": "Spring camp in Nepal.\nVisiting Kathmandu and Pokara.",
     "steps": "Kathmandu&&Pokara",
-    "steps_obj": [
+    "steps_array": [
       {
         "city": "Kathmandu",
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
@@ -241,7 +241,7 @@
     "date_to": "2017",
     "desc": "Summer camp in Ecuador.\nVisiting Puerto Lopez, Quito, Otavalo, Cuenca and Guayaquil",
     "steps": "Puerto Lopez&&Quito&&Otavalo&&Cuenca&&Guayaquil",
-    "steps_obj": [
+    "steps_array": [
       {
         "city": "Puerto Lopez",
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
@@ -272,7 +272,7 @@
     "date_to": "2018",
     "desc": "Summer camp in Hong Kong / China (Yunnan).\nVisiting Hong Kong, Kunming, Li Jiang, Shangri-La",
     "steps": "Hong Kong&&Kunming&&Li Jiang&&Shangri-La",
-    "steps_obj": [
+    "steps_array": [
       {
         "city": "Hong Kong",
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
