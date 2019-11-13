@@ -6,7 +6,13 @@
     "date_from": "2009",
     "date_to": "2009",
     "desc": "Summer camp in England.\nOne week working in a zoo.\nOne week in amusement park.",
-    "steps": "Londres"
+    "steps": "Londres",
+    "steps_obj": [
+      {
+        "city": "Londres",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg"
+      }
+    ]
   },
   {
     "id": 2,
@@ -15,7 +21,13 @@
     "date_from": "2009",
     "date_to": "2009",
     "desc": "Winter camp in Iceland.\nVisiting Reykjavik...",
-    "steps": "Reykjavik"
+    "steps": "Reykjavik",
+    "steps_obj": [
+      {
+        "city": "Reykjavik",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      }
+    ]
   },
   {
     "id": 3,
@@ -24,7 +36,25 @@
     "date_from": "2010",
     "date_to": "2010",
     "desc": "Summer camp in Italie.\nStaying in Rimini.\nVisiting Venice, Florence and San Marino.",
-    "steps": "Rimini&&Venise&&Florence&&San Marino"
+    "steps": "Rimini&&Venise&&Florence&&San Marino",
+    "steps_obj": [
+      {
+        "city": "Rimini",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Venise",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Florence",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "San Marino",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      }
+    ]
   },
   {
     "id": 4,
@@ -33,7 +63,13 @@
     "date_from": "2011",
     "date_to": "2011",
     "desc": "Summer camp in Grece.\nVisiting Athenes and Islands.",
-    "steps": "Athenes"
+    "steps": "Athenes",
+    "steps_obj": [
+      {
+        "city": "Athenes",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      }
+    ]
   },
   {
     "id": 5,
@@ -42,7 +78,13 @@
     "date_from": "Juillet 2012",
     "date_to": "Aout 2012",
     "desc": "Summer camp in Australian family.\nStaying in Melbourne in local highschool.",
-    "steps": "Melbourne"
+    "steps": "Melbourne",
+    "steps_obj": [
+      {
+        "city": "Melbourne",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      }
+    ]
   },
   {
     "id": 6,
@@ -51,7 +93,33 @@
     "date_from": "2013",
     "date_to": "2013",
     "desc": "Summer camp in India (Rajasthan).\nVisiting Dehli, Jodhpur, Jaïpur, Jaisalmer, Udaïpu, Agra.",
-    "steps": "Dehli&&Jodhpur&&Jaïpur&&Jaisalmer&&Udaïpur&&Agra"
+    "steps": "Dehli&&Jodhpur&&Jaïpur&&Jaisalmer&&Udaïpur&&Agra",
+    "steps_obj": [
+      {
+        "city": "Dehli",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Jodhpur",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Jaïpur",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Jaisalmer",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Udaïpur",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Agra",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      }
+    ]
   },
   {
     "id": 7,
@@ -60,7 +128,29 @@
     "date_from": "2014",
     "date_to": "2014",
     "desc": "Summer camp in Vietnam.\nVisiting Hanoï, Sapa, Tam Coq island, Jaisalmer, Hoï An and Halong bay.",
-    "steps": "Hanoï&&Sa Pa&&Tam Coq&&Hoï An&&Baie d'Halong"
+    "steps": "Hanoï&&Sa Pa&&Tam Coq&&Hoï An&&Baie d'Halong",
+    "steps_obj": [
+      {
+        "city": "Hanoï",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Sa Pa",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Tam Coq",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Hoï An",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Baie d'Halong",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      }
+    ]
   },
   {
     "id": 8,
@@ -69,7 +159,33 @@
     "date_from": "2015",
     "date_to": "2015",
     "desc": "Summer camp in USA (California, Nevada, Arizona).\n Visiting SF, LA, SD, LV, Yosemite and Grand Canyon.",
-    "steps": "San Francisco&&Los Angeles&&San Diego&&Las Vegas&&Grand Canyon&&Yosemite"
+    "steps": "San Francisco&&Los Angeles&&San Diego&&Las Vegas&&Grand Canyon&&Yosemite",
+    "steps_obj": [
+      {
+        "city": "San Francisco",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Los Angeles",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "San Diego",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Las Vegas",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Grand Canyon",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Yosemite",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      }
+    ]
   },
   {
     "id": 9,
@@ -78,7 +194,25 @@
     "date_from": "2016",
     "date_to": "2016",
     "desc": "Summer camp in Tanzania.\nVisiting Dar es Salam, Udzungwa, Mikumi and Zanzibar island.",
-    "steps": "Dar es Salam&&Udzungwa&&Mikumi&&Zanzibar"
+    "steps": "Dar es Salam&&Udzungwa&&Mikumi&&Zanzibar",
+    "steps_obj": [
+      {
+        "city": "Dar es Salam",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Udzungwa",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Mikumi",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Zanzibar",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      }
+    ]
   },
   {
     "id": 10,
@@ -87,7 +221,17 @@
     "date_from": "April 2016",
     "date_to": "April 2016",
     "desc": "Spring camp in Nepal.\nVisiting Kathmandu and Pokara.",
-    "steps": "Kathmandu&&Pokara"
+    "steps": "Kathmandu&&Pokara",
+    "steps_obj": [
+      {
+        "city": "Kathmandu",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Pokara",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      }
+    ]
   },
   {
     "id": 11,
@@ -96,7 +240,29 @@
     "date_from": "2017",
     "date_to": "2017",
     "desc": "Summer camp in Ecuador.\nVisiting Puerto Lopez, Quito, Otavalo, Cuenca and Guayaquil",
-    "steps": "Puerto Lopez&&Quito&&Otavalo&&Cuenca&&Guayaquil"
+    "steps": "Puerto Lopez&&Quito&&Otavalo&&Cuenca&&Guayaquil",
+    "steps_obj": [
+      {
+        "city": "Puerto Lopez",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Quito",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Otavalo",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Cuenca",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Guayaquil",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      }
+    ]
   },
   {
     "id": 12,
@@ -105,6 +271,24 @@
     "date_from": "2018",
     "date_to": "2018",
     "desc": "Summer camp in Hong Kong / China (Yunnan).\nVisiting Hong Kong, Kunming, Li Jiang, Shangri-La",
-    "steps": "Hong Kong&&Kunming&&Li Jiang&&Shangri-La"
+    "steps": "Hong Kong&&Kunming&&Li Jiang&&Shangri-La",
+    "steps_obj": [
+      {
+        "city": "Hong Kong",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Kunming",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Li Jiang",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      },
+      {
+        "city": "Shangri-La",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG"
+      }
+    ]
   }
 ]
