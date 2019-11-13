@@ -6,7 +6,7 @@
     "date_from": "2009",
     "date_to": "2009",
     "desc": "Summer camp in England.\nOne week working in a zoo.\nOne week in amusement park.",
-    "steps": "londres"
+    "steps": "Londres"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "date_from": "2009",
     "date_to": "2009",
     "desc": "Winter camp in Iceland.\nVisiting Reykjavik...",
-    "steps": "reykjavik"
+    "steps": "Reykjavik"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "date_from": "2010",
     "date_to": "2010",
     "desc": "Summer camp in Italie.\nStaying in Rimini.\nVisiting Venice, Florence and San Marino.",
-    "steps": "rimini, venise, florence, st marin"
+    "steps": "Rimini&&Venise&&Florence&&San Marino"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "date_from": "2011",
     "date_to": "2011",
     "desc": "Summer camp in Grece.\nVisiting Athenes and Islands.",
-    "steps": "athenes"
+    "steps": "Athenes"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "date_from": "Juillet 2012",
     "date_to": "Aout 2012",
     "desc": "Summer camp in Australian family.\nStaying in Melbourne in local highschool.",
-    "steps": "melbourne"
+    "steps": "Melbourne"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "date_from": "2013",
     "date_to": "2013",
     "desc": "Summer camp in India (Rajasthan).\nVisiting Dehli, Jodhpur, Jaïpur, Jaisalmer, Udaïpu, Agra.",
-    "steps": "dehli, jodhpur, jaipur, jaisalmer, udaipur, agra"
+    "steps": "Dehli&&Jodhpur&&Jaïpur&&Jaisalmer&&Udaïpur&&Agra"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "date_from": "2014",
     "date_to": "2014",
     "desc": "Summer camp in Vietnam.\nVisiting Hanoï, Sapa, Tam Coq island, Jaisalmer, Hoï An and Halong bay.",
-    "steps": "hanoi, sapa, tam coq, hoian, baie d'halong"
+    "steps": "Hanoï&&Sa Pa&&Tam Coq&&Hoï An&&Baie d'Halong"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "date_from": "2015",
     "date_to": "2015",
     "desc": "Summer camp in USA (California, Nevada, Arizona).\n Visiting SF, LA, SD, LV, Yosemite and Grand Canyon.",
-    "steps": "san francisco, los angeles, san diego, las vegas, grand canyon, yosemite"
+    "steps": "San Francisco&&Los Angeles&&San Diego&&Las Vegas&&Grand Canyon&&Yosemite"
   },
   {
     "id": 9,
@@ -77,8 +77,8 @@
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/1280px-Flag_of_Tanzania.svg.png",
     "date_from": "2016",
     "date_to": "2016",
-    "desc": "Summer camp in Tanzania",
-    "steps": "dar es salam, udzungwa, mikumi, zanzibar"
+    "desc": "Summer camp in Tanzania.\nVisiting Dar es Salam, Udzungwa, Mikumi and Zanzibar island.",
+    "steps": "Dar es Salam&&Udzungwa&&Mikumi&&Zanzibar"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "date_from": "April 2016",
     "date_to": "April 2016",
     "desc": "Spring camp in Nepal.\nVisiting Kathmandu and Pokara.",
-    "steps": "kathmandu, pokara"
+    "steps": "Kathmandu&&Pokara"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "date_from": "2017",
     "date_to": "2017",
     "desc": "Summer camp in Ecuador.\nVisiting Puerto Lopez, Quito, Otavalo, Cuenca and Guayaquil",
-    "steps": "puerto lopez, quito, otavalo, cuenca, guayaquil"
+    "steps": "Puerto Lopez&&Quito&&Otavalo&&Cuenca&&Guayaquil"
   },
   {
     "id": 12,
@@ -105,6 +105,6 @@
     "date_from": "2018",
     "date_to": "2018",
     "desc": "Summer camp in Hong Kong / China (Yunnan).\nVisiting Hong Kong, Kunming, Li Jiang, Shangri-La",
-    "steps": "hong kong, kunming, li jiang, shangri la"
+    "steps": "Hong Kong&&Kunming&&Li Jiang&&Shangri-La"
   }
 ]
