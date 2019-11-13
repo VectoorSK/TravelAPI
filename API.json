@@ -7,7 +7,7 @@
     "date_to": "2009",
     "desc": "Summer camp in England.\nOne week working in a zoo.\nOne week in amusement park.",
     "steps": "Londres",
-    "steps_array": ["Londres"]
+    "steps_array": {"Londres"}
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "date_to": "2009",
     "desc": "Winter camp in Iceland.\nVisiting Reykjavik...",
     "steps": "Reykjavik",
-    "steps_array": ["Reykjavik"]
+    "steps_array": {"Reykjavik"}
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "date_to": "2010",
     "desc": "Summer camp in Italie.\nStaying in Rimini.\nVisiting Venice, Florence and San Marino.",
     "steps": "Rimini&&Venise&&Florence&&San Marino",
-    "steps_array": ["Rimini", "Venise", "Florence", "San Marino"]
+    "steps_array": {"Rimini", "Venise", "Florence", "San Marino"}
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "date_to": "2011",
     "desc": "Summer camp in Grece.\nVisiting Athenes and Islands.",
     "steps": "Athenes",
-    "steps_array": ["Athenes"]
+    "steps_array": {"Athenes"}
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "date_to": "Aout 2012",
     "desc": "Summer camp in Australian family.\nStaying in Melbourne in local highschool.",
     "steps": "Melbourne",
-    "steps_array": ["Melbourne"]
+    "steps_array": {"Melbourne"}
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "date_to": "2013",
     "desc": "Summer camp in India (Rajasthan).\nVisiting Dehli, Jodhpur, Jaïpur, Jaisalmer, Udaïpu, Agra.",
     "steps": "Dehli&&Jodhpur&&Jaïpur&&Jaisalmer&&Udaïpur&&Agra",
-    "steps_array": ["Dehli", "Jodhpur", "Jaïpur", "Jaisalmer", "Udaïpur", "Agra"]
+    "steps_array": {"Dehli", "Jodhpur", "Jaïpur", "Jaisalmer", "Udaïpur", "Agra"}
   },
   {
     "id": 7,
@@ -67,7 +67,7 @@
     "date_to": "2014",
     "desc": "Summer camp in Vietnam.\nVisiting Hanoï, Sapa, Tam Coq island, Jaisalmer, Hoï An and Halong bay.",
     "steps": "Hanoï&&Sa Pa&&Tam Coq&&Hoï An&&Baie d'Halong",
-    "steps_array": ["Hanoï", "Sa Pa", "Tam Coq", "Hoï An", "Baie d'Halong"]
+    "steps_array": {"Hanoï", "Sa Pa", "Tam Coq", "Hoï An", "Baie d'Halong"}
   },
   {
     "id": 8,
@@ -77,7 +77,7 @@
     "date_to": "2015",
     "desc": "Summer camp in USA (California, Nevada, Arizona).\n Visiting SF, LA, SD, LV, Yosemite and Grand Canyon.",
     "steps": "San Francisco&&Los Angeles&&San Diego&&Las Vegas&&Grand Canyon&&Yosemite",
-    "steps_array": ["San Francisco", "Los Angeles", "San Diego", "Las Vegas", "Grand Canyon", "Yosemite"]
+    "steps_array": {"San Francisco", "Los Angeles", "San Diego", "Las Vegas", "Grand Canyon", "Yosemite"}
   },
   {
     "id": 9,
@@ -87,7 +87,7 @@
     "date_to": "2016",
     "desc": "Summer camp in Tanzania.\nVisiting Dar es Salam, Udzungwa, Mikumi and Zanzibar island.",
     "steps": "Dar es Salam&&Udzungwa&&Mikumi&&Zanzibar",
-    "steps_array": ["Dar es Salam", "Udzungwa", "Mikumi", "Zanzibar"]
+    "steps_array": {"Dar es Salam", "Udzungwa", "Mikumi", "Zanzibar"}
   },
   {
     "id": 10,
@@ -97,7 +97,7 @@
     "date_to": "April 2016",
     "desc": "Spring camp in Nepal.\nVisiting Kathmandu and Pokara.",
     "steps": "Kathmandu&&Pokara",
-    "steps_array": ["Kathmandu", "Pokara"]
+    "steps_array": {"Kathmandu", "Pokara"}
   },
   {
     "id": 11,
@@ -107,7 +107,7 @@
     "date_to": "2017",
     "desc": "Summer camp in Ecuador.\nVisiting Puerto Lopez, Quito, Otavalo, Cuenca and Guayaquil",
     "steps": "Puerto Lopez&&Quito&&Otavalo&&Cuenca&&Guayaquil",
-    "steps_array": ["Puerto Lopez", "Quito", "Otavalo", "Cuenca", "Guayaquil"]
+    "steps_array": {"Puerto Lopez", "Quito", "Otavalo", "Cuenca", "Guayaquil"}
   },
   {
     "id": 12,
@@ -117,6 +117,6 @@
     "date_to": "2018",
     "desc": "Summer camp in Hong Kong / China (Yunnan).\nVisiting Hong Kong, Kunming, Li Jiang, Shangri-La",
     "steps": "Hong Kong&&Kunming&&Li Jiang&&Shangri-La",
-    "steps_array": ["Hong Kong", "Kunming", "Li Jiang", "Shangri-La"]
+    "steps_array": {"Hong Kong", "Kunming", "Li Jiang", "Shangri-La"}
   }
 ]
