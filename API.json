@@ -27,7 +27,7 @@
     "date_to": "2010",
     "desc": "Summer camp in Italie.\nStaying in Rimini.\nVisiting Venice, Florence and San Marino.",
     "steps": "Rimini&&Venise&&Florence&&San Marino",
-    steps_array: ["Rimini", "Venise", "Florence", "San Marino"]
+    "steps_array": ["Rimini", "Venise", "Florence", "San Marino"]
   },
   {
     "id": 4,
@@ -67,7 +67,7 @@
     "date_to": "2014",
     "desc": "Summer camp in Vietnam.\nVisiting Hanoï, Sapa, Tam Coq island, Jaisalmer, Hoï An and Halong bay.",
     "steps": "Hanoï&&Sa Pa&&Tam Coq&&Hoï An&&Baie d'Halong",
-    steps_array: ["Hanoï", "Sa Pa", "Tam Coq", "Hoï An", "Baie d'Halong"]
+    "steps_array": ["Hanoï", "Sa Pa", "Tam Coq", "Hoï An", "Baie d'Halong"]
   },
   {
     "id": 8,
@@ -87,7 +87,7 @@
     "date_to": "2016",
     "desc": "Summer camp in Tanzania.\nVisiting Dar es Salam, Udzungwa, Mikumi and Zanzibar island.",
     "steps": "Dar es Salam&&Udzungwa&&Mikumi&&Zanzibar",
-    steps_array: ["Dar es Salam", "Udzungwa", "Mikumi", "Zanzibar"]
+    "steps_array": ["Dar es Salam", "Udzungwa", "Mikumi", "Zanzibar"]
   },
   {
     "id": 10,
