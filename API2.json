@@ -136,7 +136,7 @@
       },
       {
         "city": "Sa Pa",
-        "img": "http://static.asiawebdirect.com/m/bangkok/portals/vietnam/homepage/sapa/pagePropertiesImage/sapa.jpg.jpg"
+        "img": "http://static.asiawebdirect.com/m/bangkok/portals/vietnam/homepage/sapa/pagePropertiesImage/sapa.jpg"
       },
       {
         "city": "Tam Coq",
@@ -163,7 +163,7 @@
     "steps_array": [
       {
         "city": "San Francisco",
-        "img": "https://www.s-ge.com/sites/default/files/styles/sge_header_md/public/mig/sites/default/files/images/san-francisco-est-un-tremplin-ideal-sur-le-marche-us-pour-les-entreprises-suisses-high-tech.jpeg?itok=rTI2j5Z3"
+        "img": "https://www.s-ge.com/sites/default/files/styles/sge_header_md/public/mig/sites/default/files/images/san-francisco-est-un-tremplin-ideal-sur-le-marche-us-pour-les-entreprises-suisses-high-tech.jpeg"
       },
       {
         "city": "Los Angeles",
@@ -183,7 +183,7 @@
       },
       {
         "city": "Yosemite",
-        "img": "https://www.nps.gov/yose/planyourvisit/images/spring-yosemitefalls.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+        "img": "https://www.nps.gov/yose/planyourvisit/images/spring-yosemitefalls.jpg"
       }
     ]
   },
@@ -211,9 +211,10 @@
       {
         "city": "Ifakara",
         "img": "https://alchetron.com/cdn/ifakara-08c99502-9bc9-424f-ba76-a2f15fb740a-resize-750.jpeg"
+      },
       {
         "city": "Zanzibar",
-        "img": "https://pix10.agoda.net/hotelImages/365737/-1/6fdef7a536a1d9b23e377a6ab4807a66.jpg?s=1024x768"
+        "img": "https://pix10.agoda.net/hotelImages/365737/-1/6fdef7a536a1d9b23e377a6ab4807a66.jpg"
       }
     ]
   },
