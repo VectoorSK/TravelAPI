@@ -188,13 +188,8 @@
     "date_from": "2015/07/01",
     "date_to": "2015/07/15",
     "desc": "Summer camp in USA (California, Nevada, Arizona).\n Visiting SF, LA, SD, LV, Yosemite and Grand Canyon.",
-    "steps": "San Francisco&&Los Angeles&&San Diego&&Las Vegas&&Grand Canyon&&Yosemite",
+    "steps": "Los Angeles&&San Diego&&Las Vegas&&Grand Canyon&&Yosemite&&San Francisco",
     "steps_array": [
-      {
-        "city": "San Francisco",
-        "img": "https://www.s-ge.com/sites/default/files/styles/sge_header_md/public/mig/sites/default/files/images/san-francisco-est-un-tremplin-ideal-sur-le-marche-us-pour-les-entreprises-suisses-high-tech.jpeg",
-        "desc": "blabla"
-      },
       {
         "city": "Los Angeles",
         "img": "https://media.routard.com/image/47/5/los-angeles.1468475.142.jpg",
@@ -218,6 +213,11 @@
       {
         "city": "Yosemite",
         "img": "https://www.nps.gov/yose/planyourvisit/images/spring-yosemitefalls.jpg",
+        "desc": "blabla"
+      },
+      {
+        "city": "San Francisco",
+        "img": "https://www.s-ge.com/sites/default/files/styles/sge_header_md/public/mig/sites/default/files/images/san-francisco-est-un-tremplin-ideal-sur-le-marche-us-pour-les-entreprises-suisses-high-tech.jpeg",
         "desc": "blabla"
       }
     ]
@@ -291,17 +291,17 @@
       {
         "city": "Puerto Lopez",
         "img": "https://3.cdnpt.com/Destinations/1530/1530/puerto-lopez-3823883751-L.jpg",
-        "desc": "blabla"
+        "desc": "Petit village côtier de pêcheur."
       },
       {
         "city": "Quito",
         "img": "https://thumbor.forbes.com/thumbor/1280x868/https%3A%2F%2Fblogs-images.forbes.com%2Flealane%2Ffiles%2F2015%2F08%2F0806_FL-quito-ecuador_2000x1125-1152x648.jpg",
-        "desc": "blabla"
+        "desc": "Capitale de l'équateur."
       },
       {
         "city": "Otavalo",
         "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Otavalo_Imbabura_nina_urkuwan.jpg",
-        "desc": "blabla"
+        "desc": "Petite ville du nord du pays, connu pour ses fabriques de ponchos et de chapeaux."
       },
       {
         "city": "Cuenca",
@@ -332,17 +332,17 @@
       {
         "city": "Mont Tremblant",
         "img": "https://media-cdn.tripadvisor.com/media/photo-s/04/b8/2e/41/mont-tremblant.jpg",
-        "desc": "blabla"
+        "desc": "Nuit en tente dans le Parc Naturel du Mont Tremblant."
       },
       {
         "city": "La Mauricie",
         "img": "https://d38k3gcqg7i488.cloudfront.net/wp-content/uploads/2015/04/header-parc-mauricie.jpg",
-        "desc": "blabla"
+        "desc": "Nuit en chalet sur ilot du lac à l'eau claire dans le parc de la Mauricie."
       },
       {
         "city": "Sacacomie",
         "img": "https://d38k3gcqg7i488.cloudfront.net/wp-content/uploads/2014/05/wpid-hotel-sacacomie-2-630x422.jpg",
-        "desc": "blabla"
+        "desc": "Hôtel luxueux en pleine nature: Immense Chalêt surplombant le lac."
       },
       {
         "city": "Trois Rivières",
