@@ -2,6 +2,7 @@
   {
     "id": 1,
     "country": "Angleterre",
+    "continent": "Europe",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1920px-Flag_of_England.svg.png",
     "date_from": "2009/07/01",
     "date_to": "2009/07/15",
@@ -18,6 +19,7 @@
   {
     "id": 2,
     "country": "Islande",
+    "continent": "Europe",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/langfr-1280px-Flag_of_Iceland.svg.png",
     "date_from": "2010/02/01",
     "date_to": "20010/02/10",
@@ -44,6 +46,7 @@
   {
     "id": 3,
     "country": "Italie",
+    "continent": "Europe",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
     "date_from": "2010/07/01",
     "date_to": "2010/07/15",
@@ -75,6 +78,7 @@
   {
     "id": 4,
     "country": "Grèce",
+    "continent": "Europe",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1280px-Flag_of_Greece.svg.png",
     "date_from": "2011/07/01",
     "date_to": "2011/07/15",
@@ -91,6 +95,7 @@
   {
     "id": 5,
     "country": "Australie",
+    "continent": "Océanie",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/1920px-Flag_of_Australia.svg.png",
     "date_from": "2012/07/01",
     "date_to": "2012/08/15",
@@ -107,6 +112,7 @@
   {
     "id": 6,
     "country": "Inde",
+    "continent": "Asie",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1280px-Flag_of_India.svg.png",
     "date_from": "2013/07/01",
     "date_to": "2013/07/15",
@@ -148,6 +154,7 @@
   {
     "id": 7,
     "country": "Vietnam",
+    "continent": "Asie",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1280px-Flag_of_Vietnam.svg.png",
     "date_from": "2014/07/01",
     "date_to": "2014/07/15",
@@ -184,6 +191,7 @@
   {
     "id": 8,
     "country": "Etats Unis",
+    "continent": "Amerique du Nord",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1920px-Flag_of_the_United_States.svg.png",
     "date_from": "2015/07/01",
     "date_to": "2015/07/15",
@@ -225,6 +233,7 @@
   {
     "id": 9,
     "country": "Tanzanie",
+    "continent": "Afrique",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/1280px-Flag_of_Tanzania.svg.png",
     "date_from": "2016/07/01",
     "date_to": "2016/07/15",
@@ -261,6 +270,7 @@
   {
     "id": 10,
     "country": "Népal",
+    "continent": "Asie",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/800px-Flag_of_Nepal.svg.png",
     "date_from": "2016/07/01",
     "date_to": "2016/07/01",
@@ -282,6 +292,7 @@
   {
     "id": 11,
     "country": "Equateur",
+    "continent": "Amerique du Sud",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1280px-Flag_of_Ecuador.svg.png",
     "date_from": "2017/07/01",
     "date_to": "2017/07/15",
@@ -318,6 +329,7 @@
   {
     "id": 12,
     "country": "Canada",
+    "continent": "Amerique du Nord",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1920px-Flag_of_Canada_%28Pantone%29.svg.png",
     "date_from": "2018/07/01",
     "date_to": "2018/07/15",
@@ -374,6 +386,7 @@
   {
     "id": 13,
     "country": "Chine",
+    "continent": "Asie",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png",
     "date_from": "2018/08/01",
     "date_to": "2018/08/15",
