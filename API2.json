@@ -5,7 +5,7 @@
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1920px-Flag_of_England.svg.png",
     "date_from": "2009/07/01",
     "date_to": "2009/07/15",
-    "desc": "Summer camp in England.\nOne week working in a zoo.\nOne week in amusement park.",
+    "desc": "Colo d'été en Angleterre.\nUne semaine au sein d'un zoo : nourrissage, soignage des animaux.\nUne semaine dans un parc d'attraction avec cours d'anglais.",
     "steps": "Londres",
     "steps_array": [
       {
@@ -21,13 +21,23 @@
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/langfr-1280px-Flag_of_Iceland.svg.png",
     "date_from": "2010/02/01",
     "date_to": "20010/02/10",
-    "desc": "Winter camp in Iceland.\nVisiting Reykjavik...",
+    "desc": "Colo d'hiver en Islande.\nVisite de Reykjavik et des alentours : Blue Lagoon, Gullfoss, Geyser...",
     "steps": "Reykjavik",
     "steps_array": [
       {
         "city": "Reykjavik",
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG",
-        "desc": "blabla"
+        "desc": "Petite capitale."
+      },
+      {
+        "city": "Blue Lagoon",
+        "img": "https://www.pommietravels.com/wp-content/uploads/2015/02/Blue-Lagoon-Iceland-Winter.jpg",
+        "desc": "Station thermale situé sur une zone volcanique."
+      },
+      {
+        "city": "Gullfoss",
+        "img": "https://images.adventures.is/assets/uploads/2016/12/04105236/Gullfoss-Waterfall-Winter-3-1200x800.jpg",
+        "desc": "Cascade gélée sur la rivière Hvítá (32m de haut / 70m de large)"
       }
     ]
   },
@@ -37,7 +47,7 @@
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
     "date_from": "2010/07/01",
     "date_to": "2010/07/15",
-    "desc": "Summer camp in Italie.\nStaying in Rimini.\nVisiting Venice, Florence and San Marino.",
+    "desc": "Colo d'été en Italie.\nSéjour à Rimini, visite de Venise, Florence et San Marino.",
     "steps": "Rimini&&Venise&&Florence&&San Marino",
     "steps_array": [
       {
@@ -48,33 +58,33 @@
       {
         "city": "Venise",
         "img": "https://upload.wikimedia.org/wikipedia/commons/8/89/Venezia_veduta_aerea.jpg",
-        "desc": "blabla"
+        "desc": "Visite de la cité des Doges: Place Saint Marc, Gondoles..."
       },
       {
         "city": "Florence",
         "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Florence_Duomo_from_Michelangelo_hill.jpg",
-        "desc": "blabla"
+        "desc": "Visite de la capitale Toscane: Cathédrale Santa Maria del Fiore"
       },
       {
         "city": "San Marino",
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Basilica_din_San_Marino1.jpg",
-        "desc": "blabla"
+        "desc": "République de Saint Marin: enclave Italienne"
       }
     ]
   },
   {
     "id": 4,
-    "country": "Grece",
+    "country": "Grèce",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1280px-Flag_of_Greece.svg.png",
     "date_from": "2011/07/01",
     "date_to": "2011/07/15",
-    "desc": "Summer camp in Grece.\nVisiting Athenes and Islands.",
+    "desc": "Colo d'été en Grece.\Visite d'Athenes et des îles.",
     "steps": "Athenes",
     "steps_array": [
       {
         "city": "Athenes",
         "img": "https://upload.wikimedia.org/wikipedia/commons/9/91/View_of_the_Acropolis_Athens_%28pixinn.net%29.jpg",
-        "desc": "blabla"
+        "desc": "Visite d'Athènes: Acropolis..."
       }
     ]
   },
@@ -84,7 +94,7 @@
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/1920px-Flag_of_Australia.svg.png",
     "date_from": "2012/07/01",
     "date_to": "2012/08/15",
-    "desc": "Summer camp in Australian family.\nStaying in Melbourne in local highschool.",
+    "desc": "Immersion dans une famille Australienne à Melbourne.\nCours dans un lycée local, visite des environs.",
     "steps": "Melbourne",
     "steps_array": [
       {
@@ -100,38 +110,38 @@
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1280px-Flag_of_India.svg.png",
     "date_from": "2013/07/01",
     "date_to": "2013/07/15",
-    "desc": "Summer camp in India (Rajasthan).\nVisiting Dehli, Jodhpur, Jaïpur, Jaisalmer, Udaïpu, Agra.",
+    "desc": "Colo d'été en Inde du nord (Rajasthan).\nVisite de Dehli, Jodhpur, Jaïpur, Jaisalmer, Udaïpu et Agra.",
     "steps": "Dehli&&Jodhpur&&Jaïpur&&Jaisalmer&&Udaïpur&&Agra",
     "steps_array": [
       {
-        "city": "Dehli",
+        "city": "New Dehli",
         "img": "https://cdn.getyourguide.com/img/tour_img-1708983-145.jpg",
-        "desc": "blabla"
-      },
-      {
-        "city": "Jodhpur",
-        "img": "https://cdn1.goibibo.com/t_tg_fs/rajasthan-jodhpur-148046122123-orijgp.jpg",
-        "desc": "blabla"
+        "desc": "3 jours dans la capitale Indienne AKA l'antichambre de l'enfer."
       },
       {
         "city": "Jaïpur",
         "img": "https://www.mandaley.fr/wp-content/jaipur-ville-rose-palais-vents.jpg",
-        "desc": "blabla"
+        "desc": "Magnifique ville surnommée 'la cité rose'."
+      },
+      {
+        "city": "Jodhpur",
+        "img": "https://cdn1.goibibo.com/t_tg_fs/rajasthan-jodhpur-148046122123-orijgp.jpg",
+        "desc": "Ville grandiose surnommée 'la cité bleue'."
       },
       {
         "city": "Jaisalmer",
         "img": "https://www.bouger-voyager.com/wp-content/uploads/2017/09/jaisalmer-en-inde.jpg",
-        "desc": "blabla"
+        "desc": "Ville fortifiée au bord du désert surnommée 'la ville jaune'."
       },
       {
         "city": "Udaïpur",
         "img": "https://worldwildbrice.net/wp-content/uploads/2014/07/palais-udaipur.jpg",
-        "desc": "blabla"
+        "desc": "Ville romantique surnommée 'la cité blanche'."
       },
       {
         "city": "Agra",
         "img": "https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/09/Best-time-to-visit-Agra-3.jpg",
-        "desc": "blabla"
+        "desc": "Petite ville où se situe le Fort rouge, ainsi que le Taj Mahal."
       }
     ]
   },
@@ -173,7 +183,7 @@
   },
   {
     "id": 8,
-    "country": "United States",
+    "country": "Etats Unis",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1920px-Flag_of_the_United_States.svg.png",
     "date_from": "2015/07/01",
     "date_to": "2015/07/15",
@@ -250,7 +260,7 @@
   },
   {
     "id": 10,
-    "country": "Nepal",
+    "country": "Népal",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/800px-Flag_of_Nepal.svg.png",
     "date_from": "2016/07/01",
     "date_to": "2016/07/01",
