@@ -13,7 +13,7 @@
         "city": "Londres",
         "img": "https://upload.wikimedia.org/wikipedia/commons/0/0c/LondonTowerBridge%26The_Shard.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -40,7 +40,7 @@
         "city": "Reykjavik",
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG",
         "desc": "Petite capitale.",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -55,7 +55,7 @@
         "city": "Blue Lagoon",
         "img": "https://www.pommietravels.com/wp-content/uploads/2015/02/Blue-Lagoon-Iceland-Winter.jpg",
         "desc": "Station thermale situé sur une zone volcanique.",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -70,7 +70,7 @@
         "city": "Gullfoss",
         "img": "https://images.adventures.is/assets/uploads/2016/12/04105236/Gullfoss-Waterfall-Winter-3-1200x800.jpg",
         "desc": "Cascade gélée sur la rivière Hvítá (32m de haut / 70m de large)",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -97,7 +97,7 @@
         "city": "Rimini",
         "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Rimini_piazza_cavour.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -112,7 +112,7 @@
         "city": "Venise",
         "img": "https://upload.wikimedia.org/wikipedia/commons/8/89/Venezia_veduta_aerea.jpg",
         "desc": "Visite de la cité des Doges: Place Saint Marc, Gondoles...",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -127,7 +127,7 @@
         "city": "Florence",
         "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Florence_Duomo_from_Michelangelo_hill.jpg",
         "desc": "Visite de la capitale Toscane: Cathédrale Santa Maria del Fiore",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -142,7 +142,7 @@
         "city": "San Marino",
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Basilica_din_San_Marino1.jpg",
         "desc": "République de Saint Marin: enclave Italienne",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -169,7 +169,7 @@
         "city": "Athenes",
         "img": "https://upload.wikimedia.org/wikipedia/commons/9/91/View_of_the_Acropolis_Athens_%28pixinn.net%29.jpg",
         "desc": "Visite d'Athènes: Acropolis...",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -196,7 +196,7 @@
         "city": "Melbourne",
         "img": "https://www.australia-australie.com/wp-content/uploads/2017/01/melbourne-05.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -223,7 +223,7 @@
         "city": "New Dehli",
         "img": "https://cdn.getyourguide.com/img/tour_img-1708983-145.jpg",
         "desc": "3 jours dans la capitale Indienne AKA l'antichambre de l'enfer.",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -238,7 +238,7 @@
         "city": "Jaïpur",
         "img": "https://www.mandaley.fr/wp-content/jaipur-ville-rose-palais-vents.jpg",
         "desc": "Magnifique ville surnommée 'la cité rose'.",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -253,7 +253,7 @@
         "city": "Jodhpur",
         "img": "https://cdn1.goibibo.com/t_tg_fs/rajasthan-jodhpur-148046122123-orijgp.jpg",
         "desc": "Ville grandiose surnommée 'la cité bleue'.",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -268,7 +268,7 @@
         "city": "Jaisalmer",
         "img": "https://www.bouger-voyager.com/wp-content/uploads/2017/09/jaisalmer-en-inde.jpg",
         "desc": "Ville fortifiée au bord du désert surnommée 'la ville jaune'.",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -283,7 +283,7 @@
         "city": "Udaïpur",
         "img": "https://worldwildbrice.net/wp-content/uploads/2014/07/palais-udaipur.jpg",
         "desc": "Ville romantique surnommée 'la cité blanche'.",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -298,7 +298,7 @@
         "city": "Agra",
         "img": "https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/09/Best-time-to-visit-Agra-3.jpg",
         "desc": "Petite ville où se situe le Fort rouge, ainsi que le Taj Mahal.",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -325,7 +325,7 @@
         "city": "Hanoï",
         "img": "https://www.lonelyplanet.fr/sites/lonelyplanet/files/styles/manual_crop/public/media/destination/slider/mobile/500px_90648603_0.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -340,7 +340,7 @@
         "city": "Sa Pa",
         "img": "http://static.asiawebdirect.com/m/bangkok/portals/vietnam/homepage/sapa/pagePropertiesImage/sapa.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -355,7 +355,7 @@
         "city": "Tam Coq",
         "img": "https://worldwildbrice.net/wp-content/uploads/2017/03/tam-coc-vietnam.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -370,7 +370,7 @@
         "city": "Hoï An",
         "img": "https://agendatour.com/hinhanh/tintuc/hoi-an1.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -385,7 +385,7 @@
         "city": "Baie d'Halong",
         "img": "https://authentikvietnam.com/media/blog/10-incontournables-baie-halong-blog-voyage.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -412,7 +412,7 @@
         "city": "Los Angeles",
         "img": "https://media.routard.com/image/47/5/los-angeles.1468475.142.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -427,7 +427,7 @@
         "city": "San Diego",
         "img": "https://admin.hksinc.com/wp-content/uploads/2018/09/SanDiego_01.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -442,7 +442,7 @@
         "city": "Las Vegas",
         "img": "http://res.cloudinary.com/simpleview/image/upload/v1497480003/clients/lasvegas/strip_b86ddbea-3add-4995-b449-ac85d700b027.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -457,7 +457,7 @@
         "city": "Grand Canyon",
         "img": "https://ichef.bbci.co.uk/news/912/cpsprodpb/3F83/production/_105795261_gettyimages-669737652.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -472,7 +472,7 @@
         "city": "Yosemite",
         "img": "https://www.nps.gov/yose/planyourvisit/images/spring-yosemitefalls.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -487,7 +487,7 @@
         "city": "San Francisco",
         "img": "https://www.s-ge.com/sites/default/files/styles/sge_header_md/public/mig/sites/default/files/images/san-francisco-est-un-tremplin-ideal-sur-le-marche-us-pour-les-entreprises-suisses-high-tech.jpeg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -514,7 +514,7 @@
         "city": "Dar es Salaam",
         "img": "https://images.unsplash.com/photo-1551039945-56a89aab0116?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -529,7 +529,7 @@
         "city": "Udzungwa",
         "img": "https://www.leopard-tours.com/wp-content/uploads/2015/12/udzungwa.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -544,7 +544,7 @@
         "city": "Mikumi",
         "img": "https://worldtourssafaris.com/wp-content/uploads/2014/06/mikumi-tanzania-park-lions.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -559,7 +559,7 @@
         "city": "Ifakara",
         "img": "https://alchetron.com/cdn/ifakara-08c99502-9bc9-424f-ba76-a2f15fb740a-resize-750.jpeg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -574,7 +574,7 @@
         "city": "Zanzibar",
         "img": "https://pix10.agoda.net/hotelImages/365737/-1/6fdef7a536a1d9b23e377a6ab4807a66.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -601,7 +601,7 @@
         "city": "Kathmandu",
         "img": "https://www.welcomenepal.com/uploads/destination/kathmandu-oy-lt2.jpeg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -616,7 +616,7 @@
         "city": "Pokara",
         "img": "https://media-cdn.tripadvisor.com/media/photo-s/04/3f/5b/24/lake.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -643,7 +643,7 @@
         "city": "Puerto Lopez",
         "img": "https://3.cdnpt.com/Destinations/1530/1530/puerto-lopez-3823883751-L.jpg",
         "desc": "Petit village côtier de pêcheur.",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -658,7 +658,7 @@
         "city": "Quito",
         "img": "https://thumbor.forbes.com/thumbor/1280x868/https%3A%2F%2Fblogs-images.forbes.com%2Flealane%2Ffiles%2F2015%2F08%2F0806_FL-quito-ecuador_2000x1125-1152x648.jpg",
         "desc": "Capitale de l'équateur.",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -673,7 +673,7 @@
         "city": "Otavalo",
         "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Otavalo_Imbabura_nina_urkuwan.jpg",
         "desc": "Petite ville du nord du pays, connu pour ses fabriques de ponchos et de chapeaux.",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -688,7 +688,7 @@
         "city": "Cuenca",
         "img": "https://media.shermanstravel.com/cuenca.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -703,7 +703,7 @@
         "city": "Guayaquil",
         "img": "https://www.preventionweb.net/files/66262_largeImage.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -730,7 +730,7 @@
         "city": "Montréal",
         "img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Panorama_Montr%C3%A9al-Mont_royal.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -745,7 +745,7 @@
         "city": "Mont Tremblant",
         "img": "https://media-cdn.tripadvisor.com/media/photo-s/04/b8/2e/41/mont-tremblant.jpg",
         "desc": "Nuit en tente dans le Parc Naturel du Mont Tremblant.",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -760,7 +760,7 @@
         "city": "La Mauricie",
         "img": "https://d38k3gcqg7i488.cloudfront.net/wp-content/uploads/2015/04/header-parc-mauricie.jpg",
         "desc": "Nuit en chalet sur ilot du lac à l'eau claire dans le parc de la Mauricie.",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -775,7 +775,7 @@
         "city": "Sacacomie",
         "img": "https://d38k3gcqg7i488.cloudfront.net/wp-content/uploads/2014/05/wpid-hotel-sacacomie-2-630x422.jpg",
         "desc": "Hôtel luxueux en pleine nature: Immense Chalêt surplombant le lac.",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -790,7 +790,7 @@
         "city": "Trois Rivières",
         "img": "http://images.lpcdn.ca/924x615/201609/28/1271599-rues-historiques-vieux-trois-rivieres.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -805,7 +805,7 @@
         "city": "Quebec",
         "img": "https://www.jeparsaucanada.com/wp-content/uploads/2013/01/ville-quebec.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -820,7 +820,7 @@
         "city": "Saguenay",
         "img": "https://www.quebecoriginal.com/fiche/images/crop-485x364/8d5d326f-09bc-4def-980d-008bbb56578b/parc-national-du-fjord-du-saguenay-fjord.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -835,7 +835,7 @@
         "city": "Les Escoumains",
         "img": "https://www.lesecumeurs.com/images/phescoumin2g.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -850,7 +850,7 @@
         "city": "Isle aux Coudres",
         "img": "https://www.hotelcapauxpierres.com/public_upload/images/thumbnails/Isle-aux-Coudres-2000x850-000000.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -877,7 +877,7 @@
         "city": "Hong Kong",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hong_Kong_Harbour_Night_2019-06-11.jpg/700px-Hong_Kong_Harbour_Night_2019-06-11.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -892,7 +892,7 @@
         "city": "Kunming",
         "img": "https://horizon-chinevoyage.com/wp-content/uploads/2018/05/beau-kunming-circuit-le-haut-Tonkin-et-Yunnan.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -907,7 +907,7 @@
         "city": "Li Jiang",
         "img": "https://i0.wp.com/www.un-zeste-de-chine.com/wp-content/uploads/2017/02/yunnan_lijiang_voyage_chine.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
@@ -922,7 +922,7 @@
         "city": "Shangri-La",
         "img": "https://www.planete3w.fr/wp-cv-content/uploads/2016/12/visiter-shangri-la-yunnan-chine.jpg",
         "desc": "blabla",
-        "img_list": [
+        "pictures": [
           {
             "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
             "caption": "img1"
