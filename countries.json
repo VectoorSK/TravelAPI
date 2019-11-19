@@ -1357,8 +1357,8 @@
   },
   {
     "country": "UM",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 0,
+    "longitude": 0,
     "name": "U.S. Minor Outlying Islands"
   },
   {
