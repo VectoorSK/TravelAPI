@@ -14,7 +14,7 @@
         "id": 0,
         "city": "Londres",
         "lat": 51.5273132,
-        "long": -0.1273097,
+        "lng": -0.1273097,
         "img": "https://upload.wikimedia.org/wikipedia/commons/0/0c/LondonTowerBridge%26The_Shard.jpg",
         "desc": "blabla",
         "pictures": [
@@ -45,7 +45,7 @@
         "id": 0,
         "city": "Reykjavik",
         "lat": 64.1332228,
-        "long": -22.1319262,
+        "lng": -22.1319262,
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_121-123_HDR.JPG",
         "desc": "Petite capitale.",
         "pictures": [
@@ -91,7 +91,7 @@
         "id": 1,
         "city": "Blue Lagoon",
         "lat": 63.8794867,
-        "long": -22.4574745,
+        "lng": -22.4574745,
         "img": "https://www.pommietravels.com/wp-content/uploads/2015/02/Blue-Lagoon-Iceland-Winter.jpg",
         "desc": "Station thermale situé sur une zone volcanique.",
         "pictures": [
@@ -109,7 +109,7 @@
         "id": 2,
         "city": "Gullfoss",
         "lat": 64.3266937,
-        "long": -20.1247905,
+        "lng": -20.1247905,
         "img": "https://images.adventures.is/assets/uploads/2016/12/04105236/Gullfoss-Waterfall-Winter-3-1200x800.jpg",
         "desc": "Cascade gélée sur la rivière Hvítá (32m de haut / 70m de large)",
         "pictures": [
@@ -140,7 +140,7 @@
         "id": 0,
         "city": "Rimini",
         "lat": 44.053442,
-        "long": 12.504647,
+        "lng": 12.504647,
         "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Rimini_piazza_cavour.jpg",
         "desc": "blabla",
         "pictures": [
@@ -158,7 +158,7 @@
         "id": 1,
         "city": "Venise",
         "lat": 45.4042007,
-        "long": 12.1015583,
+        "lng": 12.1015583,
         "img": "https://upload.wikimedia.org/wikipedia/commons/8/89/Venezia_veduta_aerea.jpg",
         "desc": "Visite de la cité des Doges: Place Saint Marc, Gondoles...",
         "pictures": [
@@ -176,7 +176,7 @@
         "id": 2,
         "city": "Florence",
         "lat": 43.7798726,
-        "long": 11.1008837,
+        "lng": 11.1008837,
         "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Florence_Duomo_from_Michelangelo_hill.jpg",
         "desc": "Visite de la capitale Toscane: Cathédrale Santa Maria del Fiore",
         "pictures": [
@@ -194,7 +194,7 @@
         "id": 3,
         "city": "San Marino",
         "lat": 43.9428566,
-        "long": 12.3900533,
+        "lng": 12.3900533,
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Basilica_din_San_Marino1.jpg",
         "desc": "République de Saint Marin: enclave Italienne",
         "pictures": [
@@ -225,7 +225,7 @@
         "id": 0,
         "city": "Athenes",
         "lat": 37.9908164,
-        "long": 23.6682992,
+        "lng": 23.6682992,
         "img": "https://upload.wikimedia.org/wikipedia/commons/9/91/View_of_the_Acropolis_Athens_%28pixinn.net%29.jpg",
         "desc": "Visite d'Athènes: Acropolis...",
         "pictures": [
@@ -256,7 +256,7 @@
         "id": 0,
         "city": "Melbourne",
         "lat": 37.971237,
-        "long": 144.4926831,
+        "lng": 144.4926831,
         "img": "https://www.australia-australie.com/wp-content/uploads/2017/01/melbourne-05.jpg",
         "desc": "blabla",
         "pictures": [
@@ -287,7 +287,7 @@
         "id": 0,
         "city": "New Dehli",
         "lat": 28.5272181,
-        "long": 77.0688989,
+        "lng": 77.0688989,
         "img": "https://cdn.getyourguide.com/img/tour_img-1708983-145.jpg",
         "desc": "3 jours dans la capitale Indienne AKA l'antichambre de l'enfer.",
         "pictures": [
@@ -305,7 +305,7 @@
         "id": 1,
         "city": "Jaïpur",
         "lat": 26.8851417,
-        "long": 75.6504715,
+        "lng": 75.6504715,
         "img": "https://www.mandaley.fr/wp-content/jaipur-ville-rose-palais-vents.jpg",
         "desc": "Magnifique ville surnommée 'la cité rose'.",
         "pictures": [
@@ -323,7 +323,7 @@
         "id": 2,
         "city": "Jodhpur",
         "lat": 26.2702848,
-        "long": 72.8904568,
+        "lng": 72.8904568,
         "img": "https://cdn1.goibibo.com/t_tg_fs/rajasthan-jodhpur-148046122123-orijgp.jpg",
         "desc": "Ville grandiose surnommée 'la cité bleue'.",
         "pictures": [
@@ -341,7 +341,7 @@
         "id": 3,
         "city": "Jaisalmer",
         "lat": 26.9035615,
-        "long": 70.8246897,
+        "lng": 70.8246897,
         "img": "https://www.bouger-voyager.com/wp-content/uploads/2017/09/jaisalmer-en-inde.jpg",
         "desc": "Ville fortifiée au bord du désert surnommée 'la ville jaune'.",
         "pictures": [
@@ -359,7 +359,7 @@
         "id": 4,
         "city": "Udaïpur",
         "lat": 24.60827,
-        "long": 73.6370179,
+        "lng": 73.6370179,
         "img": "https://worldwildbrice.net/wp-content/uploads/2014/07/palais-udaipur.jpg",
         "desc": "Ville romantique surnommée 'la cité blanche'.",
         "pictures": [
@@ -377,7 +377,7 @@
         "id": 5,
         "city": "Agra",
         "lat": 27.1761049,
-        "long": 77.8399266,
+        "lng": 77.8399266,
         "img": "https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/09/Best-time-to-visit-Agra-3.jpg",
         "desc": "Petite ville où se situe le Fort rouge, ainsi que le Taj Mahal.",
         "pictures": [
@@ -408,7 +408,7 @@
         "id": 0,
         "city": "Hanoï",
         "lat": 21.022736,
-        "long": 105.8019441,
+        "lng": 105.8019441,
         "img": "https://www.lonelyplanet.fr/sites/lonelyplanet/files/styles/manual_crop/public/media/destination/slider/mobile/500px_90648603_0.jpg",
         "desc": "blabla",
         "pictures": [
@@ -426,7 +426,7 @@
         "id": 1,
         "city": "Sa Pa",
         "lat": 22.347596,
-        "long": 103.7468978,
+        "lng": 103.7468978,
         "img": "http://static.asiawebdirect.com/m/bangkok/portals/vietnam/homepage/sapa/pagePropertiesImage/sapa.jpg",
         "desc": "blabla",
         "pictures": [
@@ -444,7 +444,7 @@
         "id": 2,
         "city": "Tam Coq",
         "lat": 20.1995832,
-        "long": 105.8495545,
+        "lng": 105.8495545,
         "img": "https://worldwildbrice.net/wp-content/uploads/2017/03/tam-coc-vietnam.jpg",
         "desc": "blabla",
         "pictures": [
@@ -462,7 +462,7 @@
         "id": 3,
         "city": "Hoï An",
         "lat": 15.9182469,
-        "long": 108.2769858,
+        "lng": 108.2769858,
         "img": "https://agendatour.com/hinhanh/tintuc/hoi-an1.jpg",
         "desc": "blabla",
         "pictures": [
@@ -480,7 +480,7 @@
         "id": 4,
         "city": "Baie d'Halong",
         "lat": 20.6818694,
-        "long": 106.7635045,
+        "lng": 106.7635045,
         "img": "https://authentikvietnam.com/media/blog/10-incontournables-baie-halong-blog-voyage.jpg",
         "desc": "blabla",
         "pictures": [
@@ -511,7 +511,7 @@
         "id": 0,
         "city": "Los Angeles",
         "lat": 34.0201613,
-        "long": -118.6919235,
+        "lng": -118.6919235,
         "img": "https://media.routard.com/image/47/5/los-angeles.1468475.142.jpg",
         "desc": "blabla",
         "pictures": [
@@ -529,7 +529,7 @@
         "id": 1,
         "city": "San Diego",
         "lat": 32.8242404,
-        "long": -117.3891701,
+        "lng": -117.3891701,
         "img": "https://admin.hksinc.com/wp-content/uploads/2018/09/SanDiego_01.jpg",
         "desc": "blabla",
         "pictures": [
@@ -547,7 +547,7 @@
         "id": 2,
         "city": "Las Vegas",
         "lat": 36.1246738,
-        "long": -115.4551899,
+        "lng": -115.4551899,
         "img": "http://res.cloudinary.com/simpleview/image/upload/v1497480003/clients/lasvegas/strip_b86ddbea-3add-4995-b449-ac85d700b027.jpg",
         "desc": "blabla",
         "pictures": [
@@ -565,7 +565,7 @@
         "id": 3,
         "city": "Grand Canyon",
         "lat": 36.1127622,
-        "long": -114.0135792,
+        "lng": -114.0135792,
         "img": "https://ichef.bbci.co.uk/news/912/cpsprodpb/3F83/production/_105795261_gettyimages-669737652.jpg",
         "desc": "blabla",
         "pictures": [
@@ -583,7 +583,7 @@
         "id": 4,
         "city": "Yosemite",
         "lat": 37.8529772,
-        "long": -119.8312989,
+        "lng": -119.8312989,
         "img": "https://www.nps.gov/yose/planyourvisit/images/spring-yosemitefalls.jpg",
         "desc": "blabla",
         "pictures": [
@@ -601,7 +601,7 @@
         "id": 5,
         "city": "San Francisco",
         "lat": 37.7576171,
-        "long": -122.5776851,
+        "lng": -122.5776851,
         "img": "https://www.s-ge.com/sites/default/files/styles/sge_header_md/public/mig/sites/default/files/images/san-francisco-est-un-tremplin-ideal-sur-le-marche-us-pour-les-entreprises-suisses-high-tech.jpeg",
         "desc": "blabla",
         "pictures": [
@@ -632,7 +632,7 @@
         "id": 0,
         "city": "Dar es Salaam",
         "lat": -6.769511,
-        "long": 38.9740911,
+        "lng": 38.9740911,
         "img": "https://images.unsplash.com/photo-1551039945-56a89aab0116?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
         "desc": "blabla",
         "pictures": [
@@ -650,7 +650,7 @@
         "id": 1,
         "city": "Udzungwa",
         "lat": -7.7747087,
-        "long": 36.7027374,
+        "lng": 36.7027374,
         "img": "https://www.leopard-tours.com/wp-content/uploads/2015/12/udzungwa.jpg",
         "desc": "blabla",
         "pictures": [
@@ -668,7 +668,7 @@
         "id": 2,
         "city": "Mikumi",
         "lat": -7.401919,
-        "long": 36.9691657,
+        "lng": 36.9691657,
         "img": "https://worldtourssafaris.com/wp-content/uploads/2014/06/mikumi-tanzania-park-lions.jpg",
         "desc": "blabla",
         "pictures": [
@@ -686,7 +686,7 @@
         "id": 3,
         "city": "Ifakara",
         "lat": -8.1398935,
-        "long": 36.6642184,
+        "lng": 36.6642184,
         "img": "https://alchetron.com/cdn/ifakara-08c99502-9bc9-424f-ba76-a2f15fb740a-resize-750.jpeg",
         "desc": "blabla",
         "pictures": [
@@ -704,7 +704,7 @@
         "id": 4,
         "city": "Zanzibar",
         "lat": -6.1659166,
-        "long": 39.1851314,
+        "lng": 39.1851314,
         "img": "https://pix10.agoda.net/hotelImages/365737/-1/6fdef7a536a1d9b23e377a6ab4807a66.jpg",
         "desc": "blabla",
         "pictures": [
@@ -735,7 +735,7 @@
         "id": 0,
         "city": "Kathmandu",
         "lat": 27.7089427,
-        "long": 85.2560923,
+        "lng": 85.2560923,
         "img": "https://www.welcomenepal.com/uploads/destination/kathmandu-oy-lt2.jpeg",
         "desc": "blabla",
         "pictures": [
@@ -753,7 +753,7 @@
         "id": 1,
         "city": "Pokhara",
         "lat": 28.229651,
-        "long": 83.8165321,
+        "lng": 83.8165321,
         "img": "https://media-cdn.tripadvisor.com/media/photo-s/04/3f/5b/24/lake.jpg",
         "desc": "blabla",
         "pictures": [
@@ -784,7 +784,7 @@
         "id": 0,
         "city": "Puerto Lopez",
         "lat": -1.5543746,
-        "long": -80.824957,
+        "lng": -80.824957,
         "img": "https://3.cdnpt.com/Destinations/1530/1530/puerto-lopez-3823883751-L.jpg",
         "desc": "Petit village côtier de pêcheur.",
         "pictures": [
@@ -802,7 +802,7 @@
         "id": 1,
         "city": "Quito",
         "lat": -0.1865938,
-        "long": -78.570626,
+        "lng": -78.570626,
         "img": "https://thumbor.forbes.com/thumbor/1280x868/https%3A%2F%2Fblogs-images.forbes.com%2Flealane%2Ffiles%2F2015%2F08%2F0806_FL-quito-ecuador_2000x1125-1152x648.jpg",
         "desc": "Capitale de l'équateur.",
         "pictures": [
@@ -820,7 +820,7 @@
         "id": 2,
         "city": "Otavalo",
         "lat": 0.23333,
-        "long": -78.2776739,
+        "lng": -78.2776739,
         "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Otavalo_Imbabura_nina_urkuwan.jpg",
         "desc": "Petite ville du nord du pays, connu pour ses fabriques de ponchos et de chapeaux.",
         "pictures": [
@@ -838,7 +838,7 @@
         "id": 3,
         "city": "Cuenca",
         "lat": -2.8922671,
-        "long": -79.0594208,
+        "lng": -79.0594208,
         "img": "https://media.shermanstravel.com/cuenca.jpg",
         "desc": "blabla",
         "pictures": [
@@ -856,7 +856,7 @@
         "id": 4,
         "city": "Guayaquil",
         "lat": -2.152381,
-        "long": -80.1199493,
+        "lng": -80.1199493,
         "img": "https://www.preventionweb.net/files/66262_largeImage.jpg",
         "desc": "blabla",
         "pictures": [
@@ -887,7 +887,7 @@
         "id": 0,
         "city": "Montréal",
         "lat": 45.5576996,
-        "long": -74.0104867,
+        "lng": -74.0104867,
         "img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Panorama_Montr%C3%A9al-Mont_royal.jpg",
         "desc": "blabla",
         "pictures": [
@@ -905,7 +905,7 @@
         "id": 1,
         "city": "Mont Tremblant",
         "lat": 46.1756733,
-        "long": -74.7324134,
+        "lng": -74.7324134,
         "img": "https://media-cdn.tripadvisor.com/media/photo-s/04/b8/2e/41/mont-tremblant.jpg",
         "desc": "Nuit en tente dans le Parc Naturel du Mont Tremblant.",
         "pictures": [
@@ -923,7 +923,7 @@
         "id": 2,
         "city": "La Mauricie",
         "lat": 46.6545325,
-        "long": -73.137574,
+        "lng": -73.137574,
         "img": "https://d38k3gcqg7i488.cloudfront.net/wp-content/uploads/2015/04/header-parc-mauricie.jpg",
         "desc": "Nuit en chalet sur ilot du lac à l'eau claire dans le parc de la Mauricie.",
         "pictures": [
@@ -941,7 +941,7 @@
         "id": 3,
         "city": "Sacacomie",
         "lat": 46.5228611,
-        "long": -73.2467794,
+        "lng": -73.2467794,
         "img": "https://d38k3gcqg7i488.cloudfront.net/wp-content/uploads/2014/05/wpid-hotel-sacacomie-2-630x422.jpg",
         "desc": "Hôtel luxueux en pleine nature: Immense Chalêt surplombant le lac.",
         "pictures": [
@@ -959,7 +959,7 @@
         "id": 4,
         "city": "Trois Rivières",
         "lat": 46.3724234,
-        "long": -72.8759732,
+        "lng": -72.8759732,
         "img": "http://images.lpcdn.ca/924x615/201609/28/1271599-rues-historiques-vieux-trois-rivieres.jpg",
         "desc": "blabla",
         "pictures": [
@@ -977,7 +977,7 @@
         "id": 5,
         "city": "Quebec",
         "lat": 46.8560266,
-        "long": -71.6218759,
+        "lng": -71.6218759,
         "img": "https://www.jeparsaucanada.com/wp-content/uploads/2013/01/ville-quebec.jpg",
         "desc": "blabla",
         "pictures": [
@@ -995,7 +995,7 @@
         "id": 6,
         "city": "Saguenay",
         "lat": 48.3771071,
-        "long": -71.6940393,
+        "lng": -71.6940393,
         "img": "https://www.quebecoriginal.com/fiche/images/crop-485x364/8d5d326f-09bc-4def-980d-008bbb56578b/parc-national-du-fjord-du-saguenay-fjord.jpg",
         "desc": "blabla",
         "pictures": [
@@ -1013,7 +1013,7 @@
         "id": 7,
         "city": "Les Escoumains",
         "lat": 48.3477641,
-        "long": -69.4232446,
+        "lng": -69.4232446,
         "img": "https://www.lesecumeurs.com/images/phescoumin2g.jpg",
         "desc": "blabla",
         "pictures": [
@@ -1031,7 +1031,7 @@
         "id": 8,
         "city": "Isle aux Coudres",
         "lat": 47.3724807,
-        "long": -70.4958793,
+        "lng": -70.4958793,
         "img": "https://www.hotelcapauxpierres.com/public_upload/images/thumbnails/Isle-aux-Coudres-2000x850-000000.jpg",
         "desc": "blabla",
         "pictures": [
@@ -1062,7 +1062,7 @@
         "id": 0,
         "city": "Hong Kong",
         "lat": 22.3524825,
-        "long": 113.8475038,
+        "lng": 113.8475038,
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hong_Kong_Harbour_Night_2019-06-11.jpg/700px-Hong_Kong_Harbour_Night_2019-06-11.jpg",
         "desc": "blabla",
         "pictures": [
@@ -1080,7 +1080,7 @@
         "id": 1,
         "city": "Kunming",
         "lat": 25.0211247,
-        "long": 102.4608555,
+        "lng": 102.4608555,
         "img": "https://horizon-chinevoyage.com/wp-content/uploads/2018/05/beau-kunming-circuit-le-haut-Tonkin-et-Yunnan.jpg",
         "desc": "blabla",
         "pictures": [
@@ -1098,7 +1098,7 @@
         "id": 2,
         "city": "Li Jiang",
         "lat": 26.8698006,
-        "long": 100.0868118,
+        "lng": 100.0868118,
         "img": "https://i0.wp.com/www.un-zeste-de-chine.com/wp-content/uploads/2017/02/yunnan_lijiang_voyage_chine.jpg",
         "desc": "blabla",
         "pictures": [
@@ -1116,7 +1116,7 @@
         "id": 3,
         "city": "Shangri-La",
         "lat": 27.8264578,
-        "long": 99.6326038,
+        "lng": 99.6326038,
         "img": "https://www.planete3w.fr/wp-cv-content/uploads/2016/12/visiter-shangri-la-yunnan-chine.jpg",
         "desc": "blabla",
         "pictures": [
