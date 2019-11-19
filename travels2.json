@@ -90,8 +90,8 @@
       {
         "id": 1,
         "city": "Blue Lagoon",
-        "lat": 63.860366,
-        "lng": -22.449473,
+        "lat": 63.880367,
+        "lng": -22.449448,
         "img": "https://www.pommietravels.com/wp-content/uploads/2015/02/Blue-Lagoon-Iceland-Winter.jpg",
         "desc": "Station thermale situé sur une zone volcanique.",
         "pictures": [
@@ -108,8 +108,8 @@
       {
         "id": 2,
         "city": "Gullfoss",
-        "lat": 64.326105,
-        "lng": -20.122079,
+        "lat": 64.327073,
+        "lng": -20.119950,
         "img": "https://images.adventures.is/assets/uploads/2016/12/04105236/Gullfoss-Waterfall-Winter-3-1200x800.jpg",
         "desc": "Cascade gélée sur la rivière Hvítá (32m de haut / 70m de large)",
         "pictures": [
@@ -322,8 +322,8 @@
       {
         "id": 2,
         "city": "Jodhpur",
-        "lat": 26.238970,
-        "lng": 72.024517,
+        "lat": 26.238945,
+        "lng": 72.024435,
         "img": "https://cdn1.goibibo.com/t_tg_fs/rajasthan-jodhpur-148046122123-orijgp.jpg",
         "desc": "Ville grandiose surnommée 'la cité bleue'.",
         "pictures": [
@@ -376,8 +376,8 @@
       {
         "id": 5,
         "city": "Agra",
-        "lat": 27.176203,
-        "lng": 77.008239,
+        "lat": 27.176618,
+        "lng": 77.007893,
         "img": "https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/09/Best-time-to-visit-Agra-3.jpg",
         "desc": "Petite ville où se situe le Fort rouge, ainsi que le Taj Mahal.",
         "pictures": [
@@ -648,10 +648,10 @@
       },
       {
         "id": 1,
-        "city": "Udzungwa",
-        "lat": -7.739728,
-        "lng": 36.925674,
-        "img": "https://www.leopard-tours.com/wp-content/uploads/2015/12/udzungwa.jpg",
+        "city": "Mikumi",
+        "lat": -7.403321,
+        "lng": 36.991771,
+        "img": "https://worldtourssafaris.com/wp-content/uploads/2014/06/mikumi-tanzania-park-lions.jpg",
         "desc": "blabla",
         "pictures": [
           {
@@ -666,10 +666,10 @@
       },
       {
         "id": 2,
-        "city": "Mikumi",
-        "lat": -7.403321,
-        "lng": 36.991771,
-        "img": "https://worldtourssafaris.com/wp-content/uploads/2014/06/mikumi-tanzania-park-lions.jpg",
+        "city": "Udzungwa",
+        "lat": -7.739728,
+        "lng": 36.925674,
+        "img": "https://www.leopard-tours.com/wp-content/uploads/2015/12/udzungwa.jpg",
         "desc": "blabla",
         "pictures": [
           {
