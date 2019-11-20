@@ -905,7 +905,7 @@
         "id": 0,
         "city": "Montréal",
         "lat": 45.501669,
-        "lng": -74.567311,
+        "lng": -75.567311,
         "img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Panorama_Montr%C3%A9al-Mont_royal.jpg",
         "desc": "blabla",
         "pictures": [
@@ -1307,12 +1307,12 @@
   },
   {
     "id": 18,
-    "country": "République Tchèque",
+    "country": "Tchéquie",
     "code": "CZ",
     "continent": "Europe",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/langfr-1024px-Flag_of_the_Czech_Republic.svg.png",
-    "date_from": "2019/05/02",
-    "date_to": "2019/05/05",
+    "date_from": "2019/02/02",
+    "date_to": "2019/02/05",
     "desc": "4 jours à Pragues avec Sam",
     "steps": "Pragues",
     "steps_array": [
