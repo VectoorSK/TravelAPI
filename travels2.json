@@ -1434,6 +1434,24 @@
       },
       {
         "id": 3,
+        "city": "Varaždin",
+        "lat": 46.305743,
+        "lng": 16.336604,
+        "img": "https://croatia.hr/sites/default/files/styles/image_full_width/public/2017-08/varazdin-ivo-biocina-1-1-1-1-1.jpg",
+        "desc": "blabla",
+        "pictures": [
+          {
+            "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
+            "caption": "img1"
+          },
+          {
+            "url": "https://static.vecteezy.com/system/resources/previews/000/625/946/non_2x/black-vector-city-silhouette.jpg",
+            "caption": "img2"
+          }
+        ]
+      },
+      {
+        "id": 4,
         "city": "Zagreb",
         "lat": 45.814915,
         "lng": 15.981900,
@@ -1451,7 +1469,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 5,
         "city": "Rijeka",
         "lat": 45.327071,
         "lng": 14.442141,
@@ -1469,7 +1487,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 6,
         "city": "Zambratija",
         "lat": 45.476081,
         "lng": 13.508334,
@@ -1487,7 +1505,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 7,
         "city": "Zagreb",
         "lat": 45.814915,
         "lng": 15.981900,
