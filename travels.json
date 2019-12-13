@@ -1131,6 +1131,24 @@
         ]
       },
       {
+        "id": 3,
+        "city": "Li-Jiang",
+        "lat": 26.855090,
+        "lng": 100.227642,
+        "img": "https://www.verdie-voyages.com/images/fp/detail-produit/91/images/LIJIANG--YUNNAN-PROVINCE--CHINA---OCTOBER-23--2015-Ancient-street-decorated-with-traditional-Chinese-red-lanterns-in-the-Old-Town-of-Lijiang.-Lijiang-is-a-popular-tourist-destination-of-Asia.-19757.jpg",
+        "desc": "blabla",
+        "pictures": [
+          {
+            "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
+            "caption": "img1"
+          },
+          {
+            "url": "https://static.vecteezy.com/system/resources/previews/000/625/946/non_2x/black-vector-city-silhouette.jpg",
+            "caption": "img2"
+          }
+        ]
+      },
+      {
         "id": 4,
         "city": "Shangri-La",
         "lat": 27.829881,
