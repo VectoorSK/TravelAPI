@@ -7,7 +7,7 @@
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1920px-Flag_of_England.svg.png",
     "date_from": "2009/07/01",
     "date_to": "2009/07/15",
-    "desc": "Colo d'été en Angleterre.\nUne semaine au sein d'un zoo : nourrissage, soignage des animaux.\nUne semaine dans un parc d'attraction avec cours d'anglais.",
+    "desc": "Colo d'été en Angleterre.",
     "steps": "Londres",
     "steps_array": [
       {
@@ -38,7 +38,7 @@
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/langfr-1280px-Flag_of_Iceland.svg.png",
     "date_from": "2010/02/01",
     "date_to": "2010/02/10",
-    "desc": "Colo d'hiver en Islande.\nVisite de Reykjavik et des alentours : Blue Lagoon, Gullfoss, Geyser...",
+    "desc": "Colo d'hiver en Islande.",
     "steps": "Reykjavik",
     "steps_array": [
       {
@@ -133,7 +133,7 @@
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
     "date_from": "2010/07/01",
     "date_to": "2010/07/15",
-    "desc": "Colo d'été en Italie.\nSéjour à Rimini, visite de Venise, Florence et San Marino.",
+    "desc": "Colo d'été en Italie.",
     "steps": "Rimini&&Venise&&Florence&&San Marino",
     "steps_array": [
       {
@@ -249,7 +249,7 @@
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/1920px-Flag_of_Australia.svg.png",
     "date_from": "2012/07/01",
     "date_to": "2012/08/15",
-    "desc": "Immersion dans une famille Australienne à Melbourne.\nCours dans un lycée local, visite des environs.",
+    "desc": "Immersion dans une famille Australienne à Melbourne.",
     "steps": "Melbourne",
     "steps_array": [
       {
@@ -280,7 +280,7 @@
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1280px-Flag_of_India.svg.png",
     "date_from": "2013/07/01",
     "date_to": "2013/07/15",
-    "desc": "Colo d'été en Inde du nord (Rajasthan).\nVisite de Dehli, Jodhpur, Jaïpur, Jaisalmer, Udaïpu et Agra.",
+    "desc": "Colo d'été en Inde du nord (Rajasthan).",
     "steps": "Dehli&&Jodhpur&&Jaïpur&&Jaisalmer&&Udaïpur&&Agra",
     "steps_array": [
       {
@@ -401,7 +401,7 @@
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1280px-Flag_of_Vietnam.svg.png",
     "date_from": "2014/07/01",
     "date_to": "2014/07/15",
-    "desc": "Summer camp in Vietnam.\nVisiting Hanoï, Sapa, Tam Coq island, Jaisalmer, Hoï An and Halong bay.",
+      "desc": "Colo d'été au Vietnam.",
     "steps": "Hanoï&&Sa Pa&&Tam Coq&&Hoï An&&Baie d'Halong",
     "steps_array": [
       {
@@ -504,7 +504,7 @@
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1920px-Flag_of_the_United_States.svg.png",
     "date_from": "2015/07/01",
     "date_to": "2015/07/15",
-    "desc": "Summer camp in USA (California, Nevada, Arizona).\n Visiting SF, LA, SD, LV, Yosemite and Grand Canyon.",
+    "desc": "Colo d'été au USA (California, Nevada, Arizona).",
     "steps": "Los Angeles&&San Diego&&Las Vegas&&Grand Canyon&&Yosemite&&San Francisco",
     "steps_array": [
       {
@@ -625,7 +625,7 @@
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/1280px-Flag_of_Tanzania.svg.png",
     "date_from": "2016/07/01",
     "date_to": "2016/07/15",
-    "desc": "Summer camp in Tanzania.\nVisiting Dar es Salam, Udzungwa, Mikumi and Zanzibar island.",
+    "desc": "Colo d'été en Tanzanie.",
     "steps": "Dar es Salaam&&Udzungwa&&Mikumi&&Ifakara&&Zanzibar",
     "steps_array": [
       {
@@ -746,7 +746,7 @@
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/800px-Flag_of_Nepal.svg.png",
     "date_from": "2016/07/01",
     "date_to": "2016/07/01",
-    "desc": "Spring camp in Nepal.\nVisiting Kathmandu and Pokara.",
+    "desc": "Colo d'avril au Nepal.",
     "steps": "Kathmandu&&Pokara",
     "steps_array": [
       {
@@ -795,7 +795,7 @@
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1280px-Flag_of_Ecuador.svg.png",
     "date_from": "2017/07/01",
     "date_to": "2017/07/15",
-    "desc": "Summer camp in Ecuador.\nVisiting Puerto Lopez, Quito, Otavalo, Cuenca and Guayaquil",
+    "desc": "Colo d'été en Ecuador.",
     "steps": "Puerto Lopez&&Quito&&Otavalo&&Cuenca&&Guayaquil",
     "steps_array": [
       {
@@ -898,7 +898,7 @@
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1920px-Flag_of_Canada_%28Pantone%29.svg.png",
     "date_from": "2018/07/01",
     "date_to": "2018/07/15",
-    "desc": "Family road trip in Quebec.",
+    "desc": "Road trip en famille au Quebec.",
     "steps": "Montréal&&Mont Tremblant&&La Mauricie&&Sacacomie&&Trois Rivières&&Quebec&&Saguenay&&Les Escoumains&&Isle aux Coudres",
     "steps_array": [
       {
@@ -1073,7 +1073,7 @@
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png",
     "date_from": "2018/08/01",
     "date_to": "2018/08/15",
-    "desc": "Summer camp in Hong Kong / China (Yunnan).\nVisiting Hong Kong, Kunming, Li Jiang, Shangri-La",
+    "desc": "Colo d'été Hong Kong / Chine (Yunnan).",
     "steps": "Hong Kong&&Kunming&&Li Jiang&&Shangri-La",
     "steps_array": [
       {
@@ -1362,7 +1362,7 @@
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1024px-Flag_of_Germany.svg.png",
     "date_from": "2018/12/31",
     "date_to": "2019/01/04",
-    "desc": "1 semaine à Berlin avec Papa, Edgar, Aristide\nNouvel An chez Nico avec Tristan et Charlotte",
+    "desc": "1 semaine à Berlin chez les cousins avec Papa, Edgar, Aristide.",
     "steps": "Allemagne",
     "steps_array": [
       {
