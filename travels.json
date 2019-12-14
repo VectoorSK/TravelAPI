@@ -1688,5 +1688,36 @@
         ]
       }
     ]
+  },
+  {
+    "id": 24,
+    "country": "Etats Unis",
+    "code": "US",
+    "continent": "Amerique du Nord",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1920px-Flag_of_the_United_States.svg.png",
+    "date_from": "2016/02/01",
+    "date_to": "2016/02/10",
+    "desc": "Voyage à New York avec Papa, Edgar et Aristide",
+    "steps": "New York",
+    "steps_array": [
+      {
+        "id": 0,
+        "city": "New York",
+        "lat": 40.712584,
+        "lng": -74.006317,
+        "img": "",
+        "desc": "blabla",
+        "pictures": [
+          {
+            "url": "https://images.all-free-download.com/images/graphiclarge/the_beautiful_countryside_scenery_vector_156137.jpg",
+            "caption": "img1"
+          },
+          {
+            "url": "https://static.vecteezy.com/system/resources/previews/000/625/946/non_2x/black-vector-city-silhouette.jpg",
+            "caption": "img2"
+          }
+        ]
+      }
+    ]
   }
 ]
