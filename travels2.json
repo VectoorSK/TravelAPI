@@ -745,7 +745,7 @@
     "continent": "Asie",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/800px-Flag_of_Nepal.svg.png",
     "date_from": "2016/07/01",
-    "date_to": "2016/07/01",
+    "date_to": "2016/07/09",
     "desc": "Colo d'avril au Nepal.",
     "steps": "Kathmandu&&Pokara",
     "steps_array": [
@@ -1611,7 +1611,7 @@
     "continent": "Asie",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/langfr-1280px-Flag_of_Turkey.svg.png",
     "date_from": "2013/01/01",
-    "date_to": "2000/01/07",
+    "date_to": "2013/01/07",
     "desc": "1 semaine en Turquie avec Papa, Edgar et Aristide",
     "steps": "Antalya&&Goreme&&Urgup&&Cappadoce",
     "steps_array": [
