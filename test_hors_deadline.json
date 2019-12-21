@@ -1762,8 +1762,8 @@
     "code": "IT",
     "continent": "Europe",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
-    "date_from": "2011/01/01",
-    "date_to": "2011/01/08",
+    "date_from": "2014/01/01",
+    "date_to": "2014/01/08",
     "desc": "Voyage scolaire de terminale à Venise.",
     "steps": "Venise",
     "steps_array": [
@@ -1793,8 +1793,8 @@
     "code": "IT",
     "continent": "Europe",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
-    "date_from": "2014/01/01",
-    "date_to": "2014/01/08",
+    "date_from": "2011/01/01",
+    "date_to": "2011/01/08",
     "desc": "Voyage scolaire de 3ème à Naples.",
     "steps": "Naples&&Pompéi&&Herculanum",
     "steps_array": [
@@ -2020,10 +2020,10 @@
     "code": "ES",
     "continent": "Europe",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1024px-Flag_of_Spain.svg.png",
-    "date_from": "20//",
-    "date_to": "20//",
-    "desc": "",
-    "steps": "",
+    "date_from": "2012/01/01",
+    "date_to": "2012/01/08",
+    "desc": "Voyage scolaire de 3ème à Naples.",
+    "steps": "Seville&&Cordoue&&Grenade",
     "steps_array": [
       {
         "id": 0,
