@@ -9,7 +9,6 @@
     "date_from": "2009/07/01",
     "date_to": "2009/07/15",
     "desc": "Colo d'été en Angleterre.",
-    "steps": "Londres",
     "steps_array": [
       {
         "id": 0,
@@ -41,7 +40,6 @@
     "date_from": "2010/02/01",
     "date_to": "2010/02/10",
     "desc": "Colo d'hiver en Islande.",
-    "steps": "Reykjavik",
     "steps_array": [
       {
         "id": 0,
@@ -173,7 +171,6 @@
     "date_from": "2010/07/01",
     "date_to": "2010/07/15",
     "desc": "Colo d'été en Italie.",
-    "steps": "Rimini&&Venise&&Florence&&San Marino",
     "steps_array": [
       {
         "id": 0,
@@ -259,7 +256,6 @@
     "date_from": "2011/07/01",
     "date_to": "2011/07/15",
     "desc": "Colo d'été en Grece.\nVisite d'Athenes et des îles.",
-    "steps": "Athenes",
     "steps_array": [
       {
         "id": 0,
@@ -291,7 +287,6 @@
     "date_from": "2012/07/01",
     "date_to": "2012/08/15",
     "desc": "Immersion dans une famille Australienne à Melbourne.",
-    "steps": "Melbourne",
     "steps_array": [
       {
         "id": 0,
@@ -323,7 +318,6 @@
     "date_from": "2013/07/01",
     "date_to": "2013/07/15",
     "desc": "Colo d'été en Inde du nord (Rajasthan).",
-    "steps": "Dehli&&Jodhpur&&Jaïpur&&Jaisalmer&&Udaïpur&&Agra",
     "steps_array": [
       {
         "id": 0,
@@ -445,7 +439,6 @@
     "date_from": "2014/07/01",
     "date_to": "2014/07/15",
       "desc": "Colo d'été au Vietnam.",
-    "steps": "Hanoï&&Sa Pa&&Tam Coq&&Hoï An&&Baie d'Halong",
     "steps_array": [
       {
         "id": 0,
@@ -549,7 +542,6 @@
     "date_from": "2015/07/01",
     "date_to": "2015/07/15",
     "desc": "Colo d'été au USA (California, Nevada, Arizona).",
-    "steps": "Los Angeles&&San Diego&&Las Vegas&&Grand Canyon&&Yosemite&&San Francisco",
     "steps_array": [
       {
         "id": 0,
@@ -671,7 +663,6 @@
     "date_from": "2016/07/01",
     "date_to": "2016/07/15",
     "desc": "Colo d'été en Tanzanie.",
-    "steps": "Dar es Salaam&&Udzungwa&&Mikumi&&Ifakara&&Zanzibar",
     "steps_array": [
       {
         "id": 0,
@@ -793,7 +784,6 @@
     "date_from": "2016/07/01",
     "date_to": "2016/07/09",
     "desc": "Colo d'avril au Nepal.",
-    "steps": "Kathmandu&&Pokara",
     "steps_array": [
       {
         "id": 0,
@@ -843,7 +833,6 @@
     "date_from": "2017/07/01",
     "date_to": "2017/07/15",
     "desc": "Colo d'été en Ecuador.",
-    "steps": "Puerto Lopez&&Quito&&Otavalo&&Cuenca&&Guayaquil",
     "steps_array": [
       {
         "id": 0,
@@ -947,7 +936,6 @@
     "date_from": "2018/07/01",
     "date_to": "2018/07/15",
     "desc": "Road trip en famille au Quebec.",
-    "steps": "Montréal&&Mont Tremblant&&La Mauricie&&Sacacomie&&Trois Rivières&&Quebec&&Saguenay&&Les Escoumains&&Isle aux Coudres",
     "steps_array": [
       {
         "id": 0,
@@ -1123,7 +1111,6 @@
     "date_from": "2018/08/01",
     "date_to": "2018/08/15",
     "desc": "Colo d'été Hong Kong / Chine (Yunnan).",
-    "steps": "Hong Kong&&Kunming&&Li Jiang&&Shangri-La",
     "steps_array": [
       {
         "id": 0,
@@ -1227,7 +1214,6 @@
     "date_from": "2018/10/27",
     "date_to": "2018/10/29",
     "desc": "3 jours à Bruxelles avec Sam",
-    "steps": "Bruxelles",
     "steps_array": [
       {
         "id": 0,
@@ -1259,7 +1245,6 @@
     "date_from": "2017/08/31",
     "date_to": "2017/09/01",
     "desc": "2 jours à La Roche / Genève avec Théo",
-    "steps": "Genève",
     "steps_array": [
       {
         "id": 0,
@@ -1291,7 +1276,6 @@
     "date_from": "2015/12/18",
     "date_to": "2015/12/23",
     "desc": "Cadeau des 18 ans avec Maman, Théo, Marie",
-    "steps": "Lisbonne",
     "steps_array": [
       {
         "id": 0,
@@ -1323,7 +1307,6 @@
     "date_from": "2017/06/23",
     "date_to": "2017/06/28",
     "desc": "5 jours à Barcelone avec Sam",
-    "steps": "Barcelone",
     "steps_array": [
       {
         "id": 0,
@@ -1355,7 +1338,6 @@
     "date_from": "2018/04/26",
     "date_to": "2018/04/29",
     "desc": "4 jours à Amsterdam avec Théo, Breteau, Max, Julien et Joubert",
-    "steps": "Amsterdam",
     "steps_array": [
       {
         "id": 0,
@@ -1387,7 +1369,6 @@
     "date_from": "2019/02/02",
     "date_to": "2019/02/05",
     "desc": "4 jours à Pragues avec Sam",
-    "steps": "Pragues",
     "steps_array": [
       {
         "id": 0,
@@ -1419,7 +1400,6 @@
     "date_from": "2018/12/31",
     "date_to": "2019/01/04",
     "desc": "1 semaine à Berlin chez les cousins avec Papa, Edgar, Aristide.",
-    "steps": "Allemagne",
     "steps_array": [
       {
         "id": 0,
@@ -1451,7 +1431,6 @@
     "date_from": "2019/02/19",
     "date_to": "2019/07/19",
     "desc": "Semestre Erasmus en Croatie",
-    "steps": "Varaždin&&Ormož&&Zagreb&&Rijeka&&Zambratija",
     "steps_array": [
       {
         "id": 0,
@@ -1609,7 +1588,6 @@
     "date_from": "2019/06/03",
     "date_to": "2019/06/05",
     "desc": "3 jours à Ljubljana avec Camille, Marina et Ela",
-    "steps": "Ljubljana",
     "steps_array": [
       {
         "id": 0,
@@ -1641,7 +1619,6 @@
     "date_from": "2018/07/02",
     "date_to": "2018/07/05",
     "desc": "4 jours à Marrakech avec Sam",
-    "steps": "Marrakech",
     "steps_array": [
       {
         "id": 0,
@@ -1673,7 +1650,6 @@
     "date_from": "2013/01/01",
     "date_to": "2013/01/07",
     "desc": "1 semaine en Turquie avec Papa, Edgar et Aristide",
-    "steps": "Antalya&&Goreme&&Urgup&&Cappadoce",
     "steps_array": [
       {
         "id": 0,
@@ -1759,7 +1735,6 @@
     "date_from": "2016/02/01",
     "date_to": "2016/02/10",
     "desc": "Voyage à New York avec Papa, Edgar et Aristide",
-    "steps": "New York",
     "steps_array": [
       {
         "id": 0,
@@ -1791,7 +1766,6 @@
     "date_from": "2014/01/01",
     "date_to": "2014/01/08",
     "desc": "Voyage scolaire de terminale à Venise.",
-    "steps": "Venise",
     "steps_array": [
       {
         "id": 0,
@@ -1823,7 +1797,6 @@
     "date_from": "2011/01/01",
     "date_to": "2011/01/08",
     "desc": "Voyage scolaire de 3ème à Naples.",
-    "steps": "Naples&&Pompéi&&Herculanum",
     "steps_array": [
       {
         "id": 0,
@@ -1891,7 +1864,6 @@
     "date_from": "2014/04/01",
     "date_to": "2014/04/08",
     "desc": "Voyage en Sicile avec Maman, Edgar, Aristide",
-    "steps": "Kamarina&&Etna",
     "steps_array": [
       {
         "id": 0,
@@ -1941,7 +1913,6 @@
     "date_from": "2014/06/24",
     "date_to": "2014/07/01",
     "desc": "Semaine d'après bac chez Louis avec Gautier, Hugo et Bettina.",
-    "steps": "Bruxelles",
     "steps_array": [
       {
         "id": 0,
@@ -1991,7 +1962,6 @@
     "date_from": "2017/10/30",
     "date_to": "2017/11/02",
     "desc": "4 jours à Amsterdam avec Sam",
-    "steps": "Amsterdam",
     "steps_array": [
       {
         "id": 0,
@@ -2023,7 +1993,6 @@
     "date_from": "2018/02/24",
     "date_to": "2018/03/03",
     "desc": "Rallye Ski 2018 à Risoul avec Alex, Théo, Tanguy, Garrix, Sam, Biacab et Andrieux.",
-    "steps": "Risoul",
     "steps_array": [
       {
         "id": 0,
@@ -2055,7 +2024,6 @@
     "date_from": "2012/01/01",
     "date_to": "2012/01/08",
     "desc": "Voyage scolaire de 2nde en Andalousie.",
-    "steps": "Seville&&Cordoue&&Grenade",
     "steps_array": [
       {
         "id": 0,
